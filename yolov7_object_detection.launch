@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<launch>
+	<node pkg="yolov7" type="yolov7_object_detection.py" name="yolov7_object_detection" output="screen"/>
+</launch>
